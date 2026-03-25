@@ -101,7 +101,6 @@ I'm a data engineer who loves transforming messy data into clean, reliable pipel
 
 🔧 Tech Stack:
 
-Languages: 
 • Python 
 • SQL
 • Big Data: Apache Spark 
