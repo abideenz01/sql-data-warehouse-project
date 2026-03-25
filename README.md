@@ -96,10 +96,10 @@ I am passionate about Building scalable data pipelines that turn raw data into a
 
 🎓 Computer Engineering Graduate | 💡 Data Engineering Enthusiast | ☁️ Cloud-Native Advocate
 
-About Me
+About Me:
 I'm a data engineer who loves transforming messy data into clean, reliable pipelines. My passion lies in architecting robust data solutions that scale—whether it's processing terabytes in Spark or optimizing complex SQL queries that make databases sing.
 
-🔧 Tech Stack
+🔧 Tech Stack:
 
 Languages: 
 • Python 
@@ -115,7 +115,7 @@ Specialties:
 • System Design 
 • Performance Optimization 
 
-🚀 What I'm About
+🚀 What I'm About:
 
 📊 Building end-to-end data solutions from ingestion to visualization
 ⚡ Optimizing Spark jobs to squeeze out every bit of performance
