@@ -123,7 +123,7 @@ Specialties:
 🧩 Turning complex data problems into elegant engineering solutions
 
 📫 Let's Connect!
-I'm always excited to collaborate on data engineering projects or discuss the latest in distributed computing. Check out my repositories below to see what I'm building!
+I'm always excited to collaborate on data engineering projects or discuss the latest in distributed computing. 
 
 Email: abideenz095@gmail.com
 
