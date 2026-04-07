@@ -56,6 +56,9 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ## The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold layers.
 <img width="1058" height="761" alt="Data Architecture Diagram drawio" src="https://github.com/user-attachments/assets/22df3da3-bbf5-46b7-b884-49d3d56d31c2" />
 
+# Integration Model
+## Integration Model describes integration of CRM and ERP Source System.
+<img width="812" height="657" alt="Integration Model drawio" src="https://github.com/user-attachments/assets/f488b525-0410-4c0d-b7b2-0296053819fd" />
 
 
 
