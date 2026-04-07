@@ -1,12 +1,12 @@
 
-# Data Warehouse and Analytics Project
+## Data Warehouse
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. 
+This project demonstrates a comprehensive data warehousing. 
 ---
 ## 🏗️ Data Architecture
 
-The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+###The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV/Excel Files into SQL Server Database.
@@ -16,12 +16,12 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 ---
 ## 📖 Project Overview
 
-This project involves:
+###This project involves:
 
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+
 
 
 ---
@@ -30,37 +30,33 @@ This project involves:
 
 ### Building the Data Warehouse (Data Engineering)
 
-#### Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+## Objective
+###Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-#### Specifications
+## Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
----
+---  
 
-### BI: Analytics & Reporting (Data Analysis)
-
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
-
-# Data Architecture
-## The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold layers.
+# 🏗️ Data Architecture
+### The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold layers.
 <img width="1058" height="761" alt="Data Architecture Diagram drawio" src="https://github.com/user-attachments/assets/22df3da3-bbf5-46b7-b884-49d3d56d31c2" />
 
 # Integration Model
-## Integration Model describes integration of CRM and ERP Source System.
+### Integration Model describes integration of CRM and ERP Source System.
 <img width="812" height="657" alt="Integration Model drawio" src="https://github.com/user-attachments/assets/f488b525-0410-4c0d-b7b2-0296053819fd" />
 
+# Data Flow
+### Elaborates data flow from Source Systems to Gold Layer 
+<img width="777" height="379" alt="Data Flow Diagram drawio" src="https://github.com/user-attachments/assets/b16c31b7-2825-4cfd-9d42-c10cb15c9afd" />
 
+# Data Model
+## Star Schema Data Model consisting of fact and dimension tables.
+<img width="993" height="586" alt="Gold_Layer_Sales_Data_Mart drawio" src="https://github.com/user-attachments/assets/81759570-f77b-480c-b327-eeadd46fa9eb" />
 
 ## 📂 Repository Structure
 ```
