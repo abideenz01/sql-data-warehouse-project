@@ -55,7 +55,7 @@ This project demonstrates a comprehensive data warehousing.
 <img width="777" height="379" alt="Data Flow Diagram drawio" src="https://github.com/user-attachments/assets/b16c31b7-2825-4cfd-9d42-c10cb15c9afd" />
 
 # Data Model
-## Star Schema Data Model consisting of fact and dimension tables.
+## Star Schema Data Model consists of fact and dimension tables.
 <img width="993" height="586" alt="Gold_Layer_Sales_Data_Mart drawio" src="https://github.com/user-attachments/assets/81759570-f77b-480c-b327-eeadd46fa9eb" />
 
 ## 📂 Repository Structure
