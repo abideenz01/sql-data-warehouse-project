@@ -117,11 +117,10 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ### 🔧 Tech Stack:
 
 ### Specialties: 
-• ETL/ELT Pipelines 
-• Data Warehousing 
-• Data Design Architecture 
-• System Design 
-• Performance Optimization 
+### • ETL/ELT Pipelines 
+### • Data Design Architecture 
+### • System Design 
+### • Performance Optimization 
 
 ### 🚀 What I'm About:
 
