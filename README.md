@@ -114,7 +114,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ### About Me:
 ### I'm a data engineer who loves transforming messy data into clean, reliable pipelines. My passion lies in architecting robust data solutions that scale—whether it's processing terabytes in Spark or optimizing complex SQL queries that make databases sing.
 
-### 🔧 Tech Stack:
+### 🔧 Tech Stack: • Python • SQL • Big Data: Apache Spark • Databricks • Cloud: Microsoft Azure
 
 ### Specialties: 
 ### • ETL/ELT Pipelines 
@@ -123,7 +123,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ### • Performance Optimization 
 
 ### 🚀 What I'm About:
-
 ### 📊 Building end-to-end data solutions from ingestion to visualization
 ### ⚡ Optimizing Spark jobs to squeeze out every bit of performance
 ### 🏗️ Designing cloud-native architectures on Azure
